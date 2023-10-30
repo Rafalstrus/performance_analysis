@@ -4,7 +4,27 @@ $patternTime = '/time: (\d+\.\d+) seconds/';
 $patternMemory = '/memory: (\d+\.\d+) MB/';
 
 // statement();
-loop();
+objectchecker();
+// loop();
+
+function objectchecker()
+{
+    $arrayOfObjects = ['definitionShort', 'definitionLong'];
+
+    foreach ($arrayOfObjects as $object) {
+        $counter = 0;
+        $executionTime = 0;
+        $memoryUsed = 0;
+
+        while ($counter < 100) {
+            [$time, $mem] = runsScript('object', $object);
+            $executionTime += $time;
+            $memoryUsed += $mem;
+            $counter++;
+        }
+        saveResult('object', $object, $executionTime, $memoryUsed);
+    }
+}
 
 function loop()
 {

@@ -9,47 +9,33 @@ while ($counter < 1000) {
     foreach ($data as $value) {
         if ($value === 1) {
             $x += 1;
-        }
-        if ($value === 2) {
+        } elseif ($value === 2) {
             $x += 2;
-        }
-        if ($value === 3) {
+        } elseif ($value === 3) {
             $x += 3;
-        }
-        if ($value === 4) {
+        } elseif ($value === 4) {
             $x += 4;
-        }
-        if ($value === 5) {
+        } elseif ($value === 5) {
             $x += 5;
-        }
-        if ($value === 6) {
+        } elseif ($value === 6) {
             $x += 6;
-        }
-        if ($value === 7) {
+        } elseif ($value === 7) {
             $x += 7;
-        }
-        if ($value === 8) {
+        } elseif ($value === 8) {
             $x += 8;
-        }
-        if ($value === 9) {
+        } elseif ($value === 9) {
             $x += 9;
-        }
-        if ($value === 10) {
+        } elseif ($value === 10) {
             $x += 10;
-        }
-        if ($value === 11) {
+        } elseif ($value === 11) {
             $x += 11;
-        }
-        if ($value === 12) {
+        } elseif ($value === 12) {
             $x += 12;
-        }
-        if ($value === 13) {
+        } elseif ($value === 13) {
             $x += 13;
-        }
-        if ($value === 14) {
+        } elseif ($value === 14) {
             $x += 14;
-        }
-        if ($value === 15) {
+        } elseif ($value === 15) {
             $x += 15;
         }
     }
