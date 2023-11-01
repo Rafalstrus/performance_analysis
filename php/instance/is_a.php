@@ -3,20 +3,24 @@ $max = 100_000;
 $iterator = 0;
 $start_time = microtime(true);
 
+$counter = 0;
+
 class ExampleClass {
     private $property1;
-
-    public function __construct() {
-    }
 
     public function getProperty1() {
         return $this->property1;
     }
 }
 
+$x = new ExampleClass();
+
 while ($iterator < $max) {
+    if (is_a($x, ExampleClass::class)) {
+        $counter++;
+    }
+
     $iterator++;
-    $x = new ExampleClass();
 }
 
 $end_time = microtime(true);

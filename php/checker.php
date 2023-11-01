@@ -1,92 +1,61 @@
 <?php
 
-$patternTime = '/time: (\d+\.\d+) seconds/';
-$patternMemory = '/memory: (\d+\.\d+) MB/';
+namespace Checker;
 
-// statement();
-objectchecker();
-// loop();
-
-function objectchecker()
+class Checker
 {
-    $arrayOfObjects = ['definitionShort', 'definitionLong'];
+    const NUMBER_OF_REPETITIONS = 100;
 
-    foreach ($arrayOfObjects as $object) {
-        $counter = 0;
+    public static function check(string $path): void
+    {
+        foreach (new \DirectoryIterator(__DIR__ . '/' . $path) as $fileInfo) {
+            if (!$fileInfo->isDot() && !$fileInfo->isDir()) {
+                if ($fileInfo->getExtension() === 'php') {
+                    $counter = 0;
+                    $executionTime = 0;
+                    $memoryUsed = 0;
+
+                    $name = $fileInfo->getBasename('.' . $fileInfo->getExtension());
+
+                    while ($counter < self::NUMBER_OF_REPETITIONS) {
+                        [$time, $mem] = self::runsScript($path, $name);
+
+                        $executionTime += $time;
+                        $memoryUsed += $mem;
+                        $counter++;
+                    }
+                    self::saveResult($path, $name, $executionTime, $memoryUsed);
+                }
+            }
+        }
+    }
+
+    private static function runsScript($path, $script): array
+    {
+        $result = shell_exec("php " . __DIR__ . '/' . $path . '/' . $script . '.php');
+        echo $result;
+        $patternTime = '/time: (\d+\.\d+)/';
+        $patternMemory = '/memory:\s*([\d.]+)\s*/';
+
+        // Initialize variables for time and memory
         $executionTime = 0;
         $memoryUsed = 0;
-
-        while ($counter < 100) {
-            [$time, $mem] = runsScript('object', $object);
-            $executionTime += $time;
-            $memoryUsed += $mem;
-            $counter++;
+        // Use regular expressions to extract time and memory values
+        if (preg_match($patternTime, $result, $matchesTime)) {
+            $executionTime = (float)$matchesTime[1];
         }
-        saveResult('object', $object, $executionTime, $memoryUsed);
-    }
-}
 
-function loop()
-{
-    $arrayOfLoops = ['doWhile', 'for', 'foreEach', 'while'];
-
-    foreach ($arrayOfLoops as $loop) {
-        $counter = 0;
-        $executionTime = 0;
-        $memoryUsed = 0;
-
-        while ($counter < 100) {
-            [$time, $mem] = runsScript('loop', $loop);
-            $executionTime += $time;
-            $memoryUsed += $mem;
-            $counter++;
+        if (preg_match($patternMemory, $result, $matchesMemory)) {
+            $memoryUsed = (float)$matchesMemory[1];
         }
-        saveResult('loop', $loop, $executionTime, $memoryUsed);
+
+        return [$executionTime, $memoryUsed];
+    }
+
+    private static function saveResult($path, $script, $time, $memory): void
+    {
+        file_put_contents(__DIR__ . '/result/' . $path . '/' . $script . '.txt', 't: ' . $time . ', m: ' . $memory . PHP_EOL, FILE_APPEND);
     }
 }
 
-function statement()
-{
-    $arrayOfStatements = ['hashArray', 'if', 'ifelse', 'ifIdentical', 'match', 'switch'];
-
-    foreach ($arrayOfStatements as $statement) {
-        $counter = 0;
-        $executionTime = 0;
-        $memoryUsed = 0;
-
-        while ($counter < 100) {
-            echo $counter;
-            [$time, $mem] = runsScript('statement', $statement);
-            $executionTime += $time;
-            $memoryUsed += $mem;
-            $counter++;
-        }
-        saveResult('statement', $statement, $executionTime, $memoryUsed);
-    }
-}
-
-function runsScript($path, $script)
-{
-    $result = shell_exec("php " . $path . '/check' . $script . '.php');
-    echo $result;
-    $patternTime = '/time: (\d+\.\d+)/';
-    $patternMemory = '/memory:\s*([\d.]+)\s*/';
-
-    // Initialize variables for time and memory
-    $executionTime = 0;
-    $memoryUsed = 0;
-    // Use regular expressions to extract time and memory values
-    if (preg_match($patternTime, $result, $matchesTime)) {
-        $executionTime = (float)$matchesTime[1];
-    }
-
-    if (preg_match($patternMemory, $result, $matchesMemory)) {
-        $memoryUsed = (float)$matchesMemory[1];
-    }
-
-    return [$executionTime, $memoryUsed];
-}
-
-function saveResult($path, $script, $time, $memory) {
-    file_put_contents('result/' . $path . '/' . $script . '.txt', 't: ' . $time . ', m: ' . $memory . PHP_EOL, FILE_APPEND);
-}
+Checker::check('mapArray');
