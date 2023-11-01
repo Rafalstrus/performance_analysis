@@ -58,4 +58,4 @@ class Checker
     }
 }
 
-Checker::check('mapArray');
+Checker::check('null');
