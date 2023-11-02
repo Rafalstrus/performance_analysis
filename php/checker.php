@@ -58,4 +58,4 @@ class Checker
     }
 }
 
-Checker::check('null');
+Checker::check('arrayPush');
