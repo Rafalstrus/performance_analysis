@@ -5,6 +5,7 @@ namespace Checker;
 class Checker
 {
     const NUMBER_OF_REPETITIONS = 100;
+    const JIT_ENABLED = true;
 
     public static function check(string $path): void
     {
@@ -54,8 +55,18 @@ class Checker
 
     private static function saveResult($path, $script, $time, $memory): void
     {
-        file_put_contents(__DIR__ . '/result/' . $path . '/' . $script . '.txt', 't: ' . $time . ', m: ' . $memory . PHP_EOL, FILE_APPEND);
+        if (self::JIT_ENABLED) {
+            file_put_contents(__DIR__ . '/jit_result/' . $path . '/' . $script . '.txt', 't: ' . $time . ', m: ' . $memory . PHP_EOL, FILE_APPEND);
+        } else {
+            file_put_contents(__DIR__ . '/result/' . $path . '/' . $script . '.txt', 't: ' . $time . ', m: ' . $memory . PHP_EOL, FILE_APPEND);
+        }
     }
 }
 
 Checker::check('arrayPush');
+Checker::check('instance');
+Checker::check('loop');
+Checker::check('mapArray');
+Checker::check('null');
+Checker::check('object');
+Checker::check('statement');
