@@ -1,19 +1,22 @@
 <?php
+
+chdir(__DIR__);
+require('../ScriptExecutor.php');
+
 $max = 100_000;
 $array = [];
-$start_time = microtime(true);
 
-// for ($i = 0; $i < $max; $i++) {
-//     $array = array_merge($array, [$i => $i]);
-// }
-
-$end_time = microtime(true);
-$execution_time = $end_time - $start_time;
-$memory_used = memory_get_peak_usage(true);
+[$executionTime, $memoryUsed] = ScriptExecutor::executeScript(
+    function () use ($array, $max) {
+        // for ($i = 0; $i < $max; $i++) {
+        //     $array = array_merge($array, [$i => $i]);
+        // }
+    }
+);
 
 // if (count($array) !== $max) {
 //     throw new Exception('error');
 // }
 
 // too slow for real comparision, around 21 seconds, for one run
-echo "time: 21.0000, memory: " . 12; 
+ScriptExecutor::echoResult((float) 21.0000, 12 * 1024 * 1024);
