@@ -70,7 +70,7 @@ class Checker
     }
 }
 
-Checker::check('print');
+Checker::check('arrayPush');
 // Checker::check('instance');
 // Checker::check('loop');
 // Checker::check('mapArray');
