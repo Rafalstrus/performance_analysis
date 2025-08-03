@@ -4,9 +4,5 @@ require('../Benchmarker.php');
 
 Benchmarker::executeScript(
 function (int $i) {
-    $iterator = 0;
-
-    do {
-        $iterator++;
-    } while ($iterator < 1_000);
-}, 1_000);
+        if ($i === -1) {}
+}, 1_000_000);

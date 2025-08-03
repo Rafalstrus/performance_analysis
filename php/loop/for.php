@@ -1,19 +1,10 @@
 <?php
-$max = 100_000;
-$sum = 0;
+chdir(__DIR__);
+require('../Benchmarker.php');
 
-$start_time = microtime(true);
+Benchmarker::executeScript(
+function (int $i) {
+    $iterator = 0;
 
-for ($i = 0; $i < $max; $i++) {
-    $sum += 1;
-}
-
-if ($sum !== $max){
-    throw new Exception('error');
-}
-
-$end_time = microtime(true);
-$execution_time = $end_time - $start_time;
-$memory_used = memory_get_peak_usage(true);
-
-echo "time: " . number_format($execution_time, 4) . ", memory: " . $memory_used / 1024 / 1024; 
+    for ($iterator = 0; $iterator < 1_000; $iterator++) {}
+}, 1_000);

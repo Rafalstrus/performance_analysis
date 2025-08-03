@@ -4,9 +4,7 @@ require('../Benchmarker.php');
 
 Benchmarker::executeScript(
 function (int $i) {
-    $iterator = 0;
-
-    do {
-        $iterator++;
-    } while ($iterator < 1_000);
-}, 1_000);
+    $ts = intdiv(1753133704641, 1000);
+    
+    return date('Y-m-d\TH:i:s', $ts);
+}, 100_000);

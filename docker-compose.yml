@@ -1,0 +1,26 @@
+services:
+  javascript:
+    build:
+      context: ./js
+    container_name: js
+    volumes:
+      - ./js:/app
+    tty: true
+    deploy:
+      resources:
+        limits:
+          cpus: '2.0'
+          memory: 2g
+
+  php:
+    build: 
+      context: ./php
+    container_name: php
+    volumes:
+      - ./php:/app
+    tty: true
+    deploy:
+      resources:
+        limits:
+          cpus: '2.0'
+          memory: 2g

@@ -1,0 +1,4826 @@
+{
+  "node_bitwise": [
+    {
+      "executionTime": 0.05471414899999999,
+      "memoryPeak": 3836040
+    },
+    {
+      "executionTime": 0.005459842999999992,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004197894000000005,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0038065479999999994,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.007137941999999995,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004455925999999998,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004928781000000001,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0036809339999999934,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003995571000000005,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004326909999999998,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003280485999999996,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0036400289999999986,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004493928999999995,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004286104999999992,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0037658440000000013,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004077379999999998,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004201794999999997,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0038715559999999982,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0038354520000000035,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0038568539999999985,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0031379710000000002,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004370016,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0033181920000000032,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0036623340000000015,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004391320000000001,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0033591970000000017,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004671253,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0036467310000000024,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004453026999999999,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003762644999999999,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004341914000000003,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004393920000000002,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0038564560000000016,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004989591000000004,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004156091000000003,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0040072740000000025,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004334813000000004,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0034411070000000023,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0043671159999999955,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003847954999999999,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004400120999999999,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0036682340000000055,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004121487000000002,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003821951999999996,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0035271180000000014,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004350314999999995,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0037779469999999976,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0043360129999999945,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004159791999999996,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003633330000000001,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0036695339999999986,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0036307289999999953,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0030996669999999965,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0038105510000000036,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003236182999999997,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004126088000000003,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003981571000000002,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004039977999999998,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0036391300000000086,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003770246,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0030607629999999946,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004109687000000001,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003653731999999998,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0040466789999999975,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0038788590000000058,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004279006000000003,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003421104999999997,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003760543999999996,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004735261000000001,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004067581000000004,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003825452999999996,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004031976999999997,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0041294879999999945,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0037787469999999955,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003901061999999996,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003181376999999998,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0035349179999999976,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003748142999999999,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003647331999999999,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004224499999999999,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004120286999999998,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0036698340000000016,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004028077000000003,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004250702999999995,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0041817939999999965,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0036141270000000034,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004247202000000001,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0036932369999999964,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003926765000000003,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003299289999999999,
+      "memoryPeak": 3838336
+    },
+    {
+      "executionTime": 0.004896678999999999,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0038473550000000002,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004441825000000002,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.004298507999999999,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003863956999999999,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0033051910000000007,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003899761000000005,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003597024999999995,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.003370297999999998,
+      "memoryPeak": 3838264
+    },
+    {
+      "executionTime": 0.0038625570000000026,
+      "memoryPeak": 3838264
+    }
+  ],
+  "node_number": [
+    {
+      "executionTime": 0.005617564999999999,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0042327009999999984,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.003603226999999997,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004415022,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004860675000000001,
+      "memoryPeak": 3838504
+    },
+    {
+      "executionTime": 0.00417279400000001,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004016175999999995,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004122588,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004694655999999995,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004534447999999997,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004176204999999996,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0041274000000000016,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004386829999999996,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004157003000000003,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004546050000000001,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004277716999999995,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0046264600000000015,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0048072819999999935,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004540548999999999,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004456539000000007,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004734772999999997,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004812981999999998,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004352426999999999,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004434835999999997,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004078793999999995,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.003863367000000004,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.005148423000000001,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0038318629999999983,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004310622000000002,
+      "memoryPeak": 3838504
+    },
+    {
+      "executionTime": 0.004909993999999997,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004317122000000005,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.003415213999999999,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004205309,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.003989283000000001,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.005809602999999996,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004967400999999995,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0033057000000000017,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0036533409999999975,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.003934075999999997,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004315922000000001,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.003689146000000001,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004618858999999993,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0043896309999999945,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004058990999999999,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0055740740000000035,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.003776257000000001,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004313220999999999,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.003950378000000001,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004157602999999995,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0036902459999999947,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004385031000000005,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004625558999999995,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0038943709999999998,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.003944377000000003,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0036289389999999955,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0044277350000000056,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.003985382000000002,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004612558,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004145001000000001,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0037290510000000054,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004083193999999999,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.003654741999999999,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0032581950000000006,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.003728650999999999,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004051789999999997,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.003238492000000001,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.003614436999999995,
+      "memoryPeak": 3838504
+    },
+    {
+      "executionTime": 0.004109597999999998,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0037952590000000013,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004191507000000001,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004010284999999996,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.003289298000000002,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0037946590000000027,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004501844999999996,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0038761689999999975,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004676366000000001,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004554951000000002,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0038568670000000012,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004155602000000002,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.003964079999999996,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004199308000000002,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0039422769999999975,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004023786999999998,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004803380999999995,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.003762054999999997,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004024487,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.003978782000000003,
+      "memoryPeak": 3838504
+    },
+    {
+      "executionTime": 0.003914873,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004191907000000001,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004748274000000002,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.003921874000000002,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0049182950000000005,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.003955978999999999,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.003568632000000001,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004084794000000002,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.003944278000000004,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.004334123999999996,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0038028599999999956,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0036087360000000004,
+      "memoryPeak": 3838432
+    },
+    {
+      "executionTime": 0.0039744810000000045,
+      "memoryPeak": 3838432
+    }
+  ],
+  "node_parseInt": [
+    {
+      "executionTime": 0.003451824000000002,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0036537490000000047,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004082201000000005,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004291626999999998,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004044095999999996,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.005065721999999994,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.005026215999999998,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0038997790000000025,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004346533999999998,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0037568609999999937,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004786687,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0037507599999999997,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0035073310000000007,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004622267999999998,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004057698000000002,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003633345999999996,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003093378999999999,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003973687999999996,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004126106,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004419142000000001,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003605142000000001,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003180690999999996,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004451546000000001,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003847572999999997,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0038810760000000002,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004494052000000004,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004929304999999999,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0033400100000000065,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.005491673999999989,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0035515360000000057,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003482427999999999,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004044895999999994,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0034125189999999962,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0038637739999999995,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003755861000000003,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004268523999999999,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.005830316000000004,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004425642999999994,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.005233942999999996,
+      "memoryPeak": 3838520
+    },
+    {
+      "executionTime": 0.0037090549999999993,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0041348070000000025,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0036611499999999993,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0038082670000000006,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0038883769999999984,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004995612999999999,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003727257999999999,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003746559999999995,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.00447775,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004171811999999995,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003969286999999994,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0037205569999999993,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0043709369999999975,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0036571489999999967,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0038977780000000023,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003248699000000002,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003665048999999996,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0036335460000000027,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.006421687999999996,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003948484999999998,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004249921,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003736857999999998,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0036680509999999986,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003755161000000001,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004115105,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003838670999999998,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0040488970000000036,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004034495,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0034243200000000015,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004621068000000001,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003561836999999997,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.005369358999999995,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003754761000000002,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0032253960000000036,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004542357000000003,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003785164000000002,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004282126000000005,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0037880650000000032,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0034897279999999997,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004559660000000001,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004384737999999998,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003920681000000002,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004179212999999998,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004001091000000003,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004110005000000001,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004080200999999995,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004956209000000001,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003631945999999999,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004117505999999999,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004117305000000002,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0046096659999999975,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003692350000000005,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003894074999999994,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0037153530000000002,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.003632142999999999,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004847191000000002,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0040875980000000065,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004123903000000006,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.0037763600000000038,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.004513750000000002,
+      "memoryPeak": 3838448
+    },
+    {
+      "executionTime": 0.005004910000000002,
+      "memoryPeak": 3838448
+    }
+  ],
+  "node_plus": [
+    {
+      "executionTime": 0.0038871739999999945,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003647145000000002,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0037151519999999963,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003735954999999997,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003593837999999998,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0033063029999999996,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0040745969999999975,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003492826000000001,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.00336871,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0036449440000000024,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0036787489999999964,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003692751000000001,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0036948500000000026,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0029056539999999984,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.002979163,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003411515999999999,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.004168208,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0038866739999999993,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0037112519999999947,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003782060999999999,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.00353013,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003063774000000002,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003480323999999996,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003268397999999998,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003731155000000001,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.004080496999999994,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0036688470000000068,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.004021190000000004,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.004236315999999995,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0036092399999999997,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003556734000000006,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003688050000000004,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0033838130000000033,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003760959,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.004089898999999996,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0029728620000000062,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.004126902999999999,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.004059894999999997,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0036160409999999956,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.004631864999999998,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003778559999999999,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.004151806000000001,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003545131999999995,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0033094040000000006,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003228393000000004,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003481023999999998,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.004371432999999996,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0034949259999999993,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0038177650000000016,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.00393508,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0033406069999999985,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003174386999999996,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0034710230000000023,
+      "memoryPeak": 3838176
+    },
+    {
+      "executionTime": 0.002994064999999999,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0034714230000000017,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003379511999999998,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.004225315000000002,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003559734000000006,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.004593859999999992,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0038183659999999975,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.004043092000000002,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.004029191000000004,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.004134903999999999,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0030194680000000034,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0038792720000000004,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003042870999999998,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.002922255999999997,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0033857130000000024,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0032607980000000014,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.002851848000000004,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0045153510000000025,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003796861999999997,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003165686000000001,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0037861620000000044,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0038805729999999983,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0034830240000000004,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003941681000000002,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003786062000000001,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003966984000000003,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003432819000000002,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003657806000000001,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003732815000000002,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0038999330000000043,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0034175790000000035,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0038369259999999983,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0033752750000000022,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0033117680000000005,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0045952100000000015,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0038522280000000035,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.003541693000000002,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0031005440000000063,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0037348149999999977,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.004115656999999999,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0038243250000000017,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0028632180000000033,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.004219569000000007,
+      "memoryPeak": 3837792
+    },
+    {
+      "executionTime": 0.004775631000000004,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0034915869999999957,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0031822540000000002,
+      "memoryPeak": 3838104
+    },
+    {
+      "executionTime": 0.0039816420000000005,
+      "memoryPeak": 3838104
+    }
+  ],
+  "deno_bitwise": [
+    {
+      "executionTime": 0.033752949000000004,
+      "memoryPeak": 6347864
+    },
+    {
+      "executionTime": 0.009277730999999996,
+      "memoryPeak": 6347904
+    },
+    {
+      "executionTime": 0.003477485999999999,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0033298699999999995,
+      "memoryPeak": 6349984
+    },
+    {
+      "executionTime": 0.0035985000000000014,
+      "memoryPeak": 6349984
+    },
+    {
+      "executionTime": 0.0046553169999999965,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003832324999999997,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003803021999999999,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0036671069999999945,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0035845979999999996,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003544093999999994,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.007637148000000003,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0039880430000000045,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0038303259999999993,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003424180999999997,
+      "memoryPeak": 6349984
+    },
+    {
+      "executionTime": 0.003513091000000003,
+      "memoryPeak": 6349984
+    },
+    {
+      "executionTime": 0.003485287999999997,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0030672410000000027,
+      "memoryPeak": 6349984
+    },
+    {
+      "executionTime": 0.0038872320000000044,
+      "memoryPeak": 6349984
+    },
+    {
+      "executionTime": 0.0035047890000000025,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0035653959999999998,
+      "memoryPeak": 6349984
+    },
+    {
+      "executionTime": 0.004191764999999997,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.004227468999999999,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003554895000000002,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0037235139999999946,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0037434159999999964,
+      "memoryPeak": 6349984
+    },
+    {
+      "executionTime": 0.006920769,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0037729200000000064,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003677408000000007,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.004395688,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003700611000000002,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0035550950000000016,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.004320779999999999,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0032965659999999986,
+      "memoryPeak": 6349984
+    },
+    {
+      "executionTime": 0.0041122560000000025,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0037997220000000028,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.00384393,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0039271370000000016,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.004362274999999997,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003342785999999997,
+      "memoryPeak": 6349984
+    },
+    {
+      "executionTime": 0.0036679150000000008,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003570906999999998,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.004209060999999998,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0041128529999999944,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0042192620000000005,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0034070919999999987,
+      "memoryPeak": 6349984
+    },
+    {
+      "executionTime": 0.0036067099999999995,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003993141999999999,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003977840999999998,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0038917339999999996,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0065374610000000005,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.004244163999999998,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.004193060000000003,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.004132455,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.004018844999999999,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003942638000000003,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0039668399999999975,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0036657149999999986,
+      "memoryPeak": 6349984
+    },
+    {
+      "executionTime": 0.003821627999999997,
+      "memoryPeak": 6349984
+    },
+    {
+      "executionTime": 0.004111252999999998,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003592807999999998,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.00408605,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003933137000000002,
+      "memoryPeak": 6349952
+    },
+    {
+      "executionTime": 0.003954639,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.005167343000000002,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003651012999999999,
+      "memoryPeak": 6349984
+    },
+    {
+      "executionTime": 0.0037820239999999997,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0037480210000000016,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0037263189999999966,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0036836159999999937,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.004368175000000001,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003403591999999996,
+      "memoryPeak": 6349984
+    },
+    {
+      "executionTime": 0.0071498129999999945,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0038576309999999977,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003320185000000002,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.004102452000000006,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003663013999999997,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.004822412999999998,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003428294000000001,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003376390000000001,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.004583892999999996,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.004526287999999994,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.004133255000000006,
+      "memoryPeak": 6349984
+    },
+    {
+      "executionTime": 0.0041978600000000055,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0035605059999999967,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.004369774999999997,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003877333,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003739344999999993,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003691941,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003884662999999996,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.004888682000000003,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0038389569999999935,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0038951649999999986,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0032886920000000045,
+      "memoryPeak": 6349984
+    },
+    {
+      "executionTime": 0.0033874039999999966,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.004074584999999999,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.003771649999999994,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0031462749999999957,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0038294560000000006,
+      "memoryPeak": 6349424
+    },
+    {
+      "executionTime": 0.0033029930000000006,
+      "memoryPeak": 6349424
+    }
+  ],
+  "deno_number": [
+    {
+      "executionTime": 0.0038417579999999985,
+      "memoryPeak": 6349792
+    },
+    {
+      "executionTime": 0.004373120999999997,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0039685729999999995,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003995777000000004,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.004231803999999997,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003872261999999999,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003454512000000001,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0035491230000000017,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.004276609000000001,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.004236005000000006,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.005030500000000004,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.004342216999999998,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0033207960000000013,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0038809619999999965,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0036693379999999964,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.004883082000000002,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.004231605000000002,
+      "memoryPeak": 6350392
+    },
+    {
+      "executionTime": 0.004190699000000003,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003969673,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003984774999999999,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003516718999999995,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003057764999999996,
+      "memoryPeak": 6350392
+    },
+    {
+      "executionTime": 0.003352800000000002,
+      "memoryPeak": 6350392
+    },
+    {
+      "executionTime": 0.0044665320000000005,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.004172497,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003583827999999997,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0037759499999999945,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0036860390000000008,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0031592760000000056,
+      "memoryPeak": 6350392
+    },
+    {
+      "executionTime": 0.004653255000000001,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0033964050000000016,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0038547599999999987,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0037393459999999976,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0039706729999999975,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003930168999999999,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.004716563000000001,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.004427526999999998,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0038415579999999993,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0036289330000000035,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003882762999999997,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003462016999999996,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0036155359999999986,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.004104593999999999,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.004068389999999994,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0035691290000000038,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0037739539999999965,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003648639000000003,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003704346000000001,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0037880559999999975,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.004179702999999996,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003392707999999999,
+      "memoryPeak": 6350392
+    },
+    {
+      "executionTime": 0.003394808000000005,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0037379499999999977,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.004243011000000003,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0035912330000000027,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0036731419999999986,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003846463,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.004196204999999999,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003597332999999999,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003801757000000002,
+      "memoryPeak": 6350392
+    },
+    {
+      "executionTime": 0.003684542999999998,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0035698289999999988,
+      "memoryPeak": 6350392
+    },
+    {
+      "executionTime": 0.004614255,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.004347622999999998,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.004106994,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0038838679999999995,
+      "memoryPeak": 6350392
+    },
+    {
+      "executionTime": 0.003035966000000002,
+      "memoryPeak": 6350392
+    },
+    {
+      "executionTime": 0.003858164000000002,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.004522745000000001,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0036247359999999986,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003883968000000003,
+      "memoryPeak": 6350392
+    },
+    {
+      "executionTime": 0.003453316000000001,
+      "memoryPeak": 6350392
+    },
+    {
+      "executionTime": 0.004461138000000005,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0036456390000000026,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0044825389999999955,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.004431933000000001,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.004264213000000005,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.004041985999999994,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.005205826000000002,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003958376999999999,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0033507039999999934,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003505521999999999,
+      "memoryPeak": 6350392
+    },
+    {
+      "executionTime": 0.004576150999999996,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003659641000000001,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0038745670000000063,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003787455999999999,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003677342000000003,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003974578999999999,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0036100349999999963,
+      "memoryPeak": 6350392
+    },
+    {
+      "executionTime": 0.003884267000000001,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.004219308000000005,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0041951049999999985,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003917642999999998,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003501396,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0033290760000000007,
+      "memoryPeak": 6350392
+    },
+    {
+      "executionTime": 0.0042860840000000025,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.004290885000000003,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.003858436999999995,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0035896060000000034,
+      "memoryPeak": 6349832
+    },
+    {
+      "executionTime": 0.0036527129999999984,
+      "memoryPeak": 6349832
+    }
+  ],
+  "deno_parseInt": [
+    {
+      "executionTime": 0.0036584140000000005,
+      "memoryPeak": 6349824
+    },
+    {
+      "executionTime": 0.003682516,
+      "memoryPeak": 6347920
+    },
+    {
+      "executionTime": 0.003858936999999997,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0034527909999999976,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0041876740000000015,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0033165750000000004,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0038040299999999973,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003793628999999996,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003933343999999998,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003895341000000002,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003499696,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0034342880000000024,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0038475350000000005,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003615809000000006,
+      "memoryPeak": 6349024
+    },
+    {
+      "executionTime": 0.0038287329999999995,
+      "memoryPeak": 6350424
+    },
+    {
+      "executionTime": 0.003687916999999999,
+      "memoryPeak": 6350424
+    },
+    {
+      "executionTime": 0.0037011189999999984,
+      "memoryPeak": 6350424
+    },
+    {
+      "executionTime": 0.003663814000000002,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0036860169999999998,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003552301,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.004027755999999997,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.00415907,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.004314588,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003343278000000005,
+      "memoryPeak": 6350424
+    },
+    {
+      "executionTime": 0.003276471000000001,
+      "memoryPeak": 6350424
+    },
+    {
+      "executionTime": 0.0037947290000000036,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.004590519,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.004388396,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.004188274,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.004139868,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.004558616000000001,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0037921290000000026,
+      "memoryPeak": 6350424
+    },
+    {
+      "executionTime": 0.004819944999999997,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.004021754999999999,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.004650226000000004,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.004146567999999995,
+      "memoryPeak": 6350424
+    },
+    {
+      "executionTime": 0.003379382999999997,
+      "memoryPeak": 6350424
+    },
+    {
+      "executionTime": 0.003813932000000001,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0037176200000000035,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0034899950000000005,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.004046558000000005,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0036277100000000006,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0031558570000000045,
+      "memoryPeak": 6350424
+    },
+    {
+      "executionTime": 0.003353778999999996,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003577298000000006,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0038845150000000003,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003961219999999997,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0034143900000000046,
+      "memoryPeak": 6350424
+    },
+    {
+      "executionTime": 0.003951718999999997,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0038286119999999995,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.004042823999999996,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003907716,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003918516999999995,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0035723979999999996,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.00342709,
+      "memoryPeak": 6350424
+    },
+    {
+      "executionTime": 0.0033508860000000026,
+      "memoryPeak": 6350424
+    },
+    {
+      "executionTime": 0.003366686999999999,
+      "memoryPeak": 6350424
+    },
+    {
+      "executionTime": 0.003968519999999998,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003301183000000002,
+      "memoryPeak": 6350424
+    },
+    {
+      "executionTime": 0.003386788000000003,
+      "memoryPeak": 6350424
+    },
+    {
+      "executionTime": 0.004801766000000001,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003328285000000001,
+      "memoryPeak": 6350424
+    },
+    {
+      "executionTime": 0.003289982000000002,
+      "memoryPeak": 6350424
+    },
+    {
+      "executionTime": 0.0035764990000000055,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0030687709999999984,
+      "memoryPeak": 6350424
+    },
+    {
+      "executionTime": 0.0033156839999999976,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003939717999999999,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003625200999999997,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003494094000000004,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0035023939999999955,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0038017109999999976,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0036298010000000006,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0040621250000000015,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003964719000000002,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.004052223999999996,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003914217000000001,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003932017999999999,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0035151949999999983,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0035286960000000035,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.004693559999999998,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003887816000000001,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003189677000000003,
+      "memoryPeak": 6350424
+    },
+    {
+      "executionTime": 0.004495649,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0036297009999999973,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.004153830999999997,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.004926772999999997,
+      "memoryPeak": 6350424
+    },
+    {
+      "executionTime": 0.0041951329999999985,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003954119999999996,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0031621749999999975,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.004104227000000002,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003843612999999998,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0034825930000000013,
+      "memoryPeak": 6350424
+    },
+    {
+      "executionTime": 0.0041044280000000054,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0037909100000000037,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.004001261000000007,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.0036046559999999986,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.004097131999999995,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003854693999999995,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003948608999999998,
+      "memoryPeak": 6349864
+    },
+    {
+      "executionTime": 0.003831191000000004,
+      "memoryPeak": 6349864
+    }
+  ],
+  "deno_plus": [
+    {
+      "executionTime": 0.003226597000000005,
+      "memoryPeak": 6349408
+    },
+    {
+      "executionTime": 0.003574652,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0033599180000000004,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0038844989999999983,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.004183945000000001,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0033890229999999945,
+      "memoryPeak": 6349992
+    },
+    {
+      "executionTime": 0.0036267600000000045,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003819488999999997,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003930106000000002,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003431829999999998,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003513142000000002,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0034311289999999985,
+      "memoryPeak": 6349992
+    },
+    {
+      "executionTime": 0.003524944000000005,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.004083829999999999,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003861395000000002,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.004902255999999995,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003800286,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0036732670000000026,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.004832144999999997,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0034587330000000025,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.004139339,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0035261440000000023,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0036718660000000015,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003716572999999997,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.004011418999999996,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0033480170000000056,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0037577789999999993,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.004476390000000002,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.004254856000000004,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0037689809999999968,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0037269739999999984,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0043410700000000016,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0037660809999999997,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003541546000000004,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0035634489999999985,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0033642189999999986,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0037559789999999965,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.004351270999999997,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003936207000000003,
+      "memoryPeak": 6349992
+    },
+    {
+      "executionTime": 0.003403925000000001,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0035799519999999987,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0036183580000000008,
+      "memoryPeak": 6348088
+    },
+    {
+      "executionTime": 0.004183945999999999,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003607455999999999,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.004303063000000002,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0039482089999999985,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003978213999999994,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0036972340000000015,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0036820319999999996,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0033393920000000035,
+      "memoryPeak": 6349992
+    },
+    {
+      "executionTime": 0.0034550049999999997,
+      "memoryPeak": 6349992
+    },
+    {
+      "executionTime": 0.0036312259999999983,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003659429000000003,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0038868560000000015,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0034972100000000028,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003993568000000004,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003981667000000001,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003943363000000005,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0039956689999999994,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.004245798,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003912159000000003,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0037482400000000025,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003697834,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0035447150000000034,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.004386814999999999,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.004101981000000002,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003517412999999998,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0036415270000000033,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003909759000000001,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003998568999999996,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.004287002999999998,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0036056230000000014,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003499510000000001,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0036033230000000033,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003959063999999998,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003842051000000005,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.004298304999999999,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.004163388000000005,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003433501999999997,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0034836090000000012,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003763340999999997,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003460505999999995,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0034641069999999984,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.004001770000000001,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.007275653999999996,
+      "memoryPeak": 6349992
+    },
+    {
+      "executionTime": 0.0033032870000000046,
+      "memoryPeak": 6349992
+    },
+    {
+      "executionTime": 0.0035010109999999983,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0038121479999999935,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0034541049999999985,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0035838210000000005,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0036672300000000035,
+      "memoryPeak": 6349992
+    },
+    {
+      "executionTime": 0.0032829849999999965,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.003264282999999999,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0035149120000000024,
+      "memoryPeak": 6349992
+    },
+    {
+      "executionTime": 0.0041855909999999955,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0038636529999999994,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.004561335,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0036444279999999977,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0033075879999999954,
+      "memoryPeak": 6349432
+    },
+    {
+      "executionTime": 0.0037977520000000028,
+      "memoryPeak": 6349432
+    }
+  ],
+  "bun_bitwise": [
+    {
+      "executionTime": 0.06459648799999997,
+      "memoryPeak": 229382
+    },
+    {
+      "executionTime": 0.033151973,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.033372193999999994,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.03439068700000001,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.04387266699999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.032336397999999995,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.039965305,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.047615614,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.045683835,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.044837355999999995,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.03368822300000001,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.037776602,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.03577001600000001,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.032540717000000004,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.03783670699999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.050470178000000004,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.038238744,
+      "memoryPeak": 229627
+    },
+    {
+      "executionTime": 0.03996120500000001,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.042232614999999994,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.036547388,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.037623187,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.039184132,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.042645653000000006,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.03983849300000001,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.031962662999999995,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.038852501000000005,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.044191496000000004,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.04019252499999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.035671707,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.03899231499999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.038794396,
+      "memoryPeak": 229382
+    },
+    {
+      "executionTime": 0.047802432000000006,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.03256651900000001,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.034683114999999994,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.039358949000000004,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.037636488999999995,
+      "memoryPeak": 229382
+    },
+    {
+      "executionTime": 0.036281163,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.034617309,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.03260472200000001,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.03365932,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.044954268,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.032153581,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.033062865,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.036112547,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.036999330000000004,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.037835308000000005,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.039292842,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.03647028100000001,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.036510284,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.034005752,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.039314045000000006,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.047030858999999994,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.039575668,
+      "memoryPeak": 229627
+    },
+    {
+      "executionTime": 0.041352833,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.039774287000000005,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.04445692100000001,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.041163216,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.032163381,
+      "memoryPeak": 229382
+    },
+    {
+      "executionTime": 0.031695202,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.032803329,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.044139716999999995,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.03676938,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.037034509,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.034235590999999996,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.042991087,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.03297094799999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.032679715000000005,
+      "memoryPeak": 229627
+    },
+    {
+      "executionTime": 0.032973947999999996,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.034796654999999996,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.032851734,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.033563015,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.03939557700000001,
+      "memoryPeak": 229382
+    },
+    {
+      "executionTime": 0.044102512999999996,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.043815381,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.04051640499999999,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.04150121799999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.031775411999999996,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.04161533,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.037895107,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.036843087000000004,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.03369623,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.034383609,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.033511809000000004,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.044017203000000005,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.043202810999999994,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.04652488800000001,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.048949363999999995,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.03687809099999999,
+      "memoryPeak": 229382
+    },
+    {
+      "executionTime": 0.038192741,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.045010615999999996,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.040682524000000005,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.049215593999999994,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.041923565999999995,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.043875187,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.049340407999999995,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.042167793,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.041573225,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.037519864,
+      "memoryPeak": 229627
+    },
+    {
+      "executionTime": 0.031964333,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.047242769,
+      "memoryPeak": 228733
+    }
+  ],
+  "bun_number": [
+    {
+      "executionTime": 0.007943902999999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007452948000000006,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007403241000000001,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006657156000000001,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007995208999999996,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.008082419000000002,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.0068343770000000035,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007857092999999999,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.007327332999999996,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005621338999999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007592663000000002,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.006972291999999996,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006490437,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.008618380000000002,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007518554000000002,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.007764782999999994,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007788184999999999,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.008286842,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.008178229000000002,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006051388000000003,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007680273,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006164701000000001,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.008378652000000002,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.0073023299999999975,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.007241323000000009,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.008158727000000006,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.006590049000000001,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.008015211000000001,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007520162999999996,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007921709999999997,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006681467000000005,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007640177999999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006008989999999997,
+      "memoryPeak": 229382
+    },
+    {
+      "executionTime": 0.007485059,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.008194141000000002,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006735373000000003,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007742389000000003,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007385648000000003,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006981101000000003,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007300539000000001,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.0070554100000000015,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.0067949800000000025,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.008126832999999998,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007408251,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.0062096129999999975,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.008434169000000004,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.008513776999999997,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.0064202370000000005,
+      "memoryPeak": 229382
+    },
+    {
+      "executionTime": 0.006858787,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.007790894999999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.0064984459999999945,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007530764000000005,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.008080028,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.0063382280000000004,
+      "memoryPeak": 229627
+    },
+    {
+      "executionTime": 0.007225830000000002,
+      "memoryPeak": 229101
+    },
+    {
+      "executionTime": 0.008112631,
+      "memoryPeak": 229309
+    },
+    {
+      "executionTime": 0.007947813000000003,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.008257447999999997,
+      "memoryPeak": 228876
+    },
+    {
+      "executionTime": 0.006478144,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.008566383000000002,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.008268448999999997,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.008034422999999997,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006787979999999997,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.00723583,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.007463856999999997,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006615360000000002,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.007097115000000002,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006385832999999998,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.007608074000000002,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.006942196999999993,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007648078000000005,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007690083000000001,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005943383000000004,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.0069856020000000005,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007765091999999996,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007676581999999996,
+      "memoryPeak": 229309
+    },
+    {
+      "executionTime": 0.006969200999999998,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.0068621879999999965,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.008380662999999998,
+      "memoryPeak": 229382
+    },
+    {
+      "executionTime": 0.007992916999999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.008911423,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.0066960690000000015,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.008133934000000004,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.008810511000000005,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007628576000000002,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007227530000000002,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.008272750000000002,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.0074418539999999995,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007728588000000002,
+      "memoryPeak": 229101
+    },
+    {
+      "executionTime": 0.008324555999999993,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.009530994999999997,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006659365000000001,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.008684497000000001,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006985701999999996,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.007266434999999994,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007031007000000002,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.0070031040000000004,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.007868004,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.006642962999999995,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.008473871999999993,
+      "memoryPeak": 228733
+    }
+  ],
+  "bun_parseInt": [
+    {
+      "executionTime": 0.007343142999999998,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007258833000000003,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.0054077209999999955,
+      "memoryPeak": 229383
+    },
+    {
+      "executionTime": 0.006152206999999997,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.005783563999999998,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006116902000000003,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006108802000000004,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007878504,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006061295999999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006109100999999995,
+      "memoryPeak": 229627
+    },
+    {
+      "executionTime": 0.006122103000000003,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.007888306,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006055794999999997,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006428937999999995,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006346229000000001,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.005844670999999998,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.005500129000000001,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.0058177659999999985,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007160919,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.005496029,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.00603519,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.006185707999999998,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.005888973999999997,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006420435000000005,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005838268,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.006686065999999997,
+      "memoryPeak": 229309
+    },
+    {
+      "executionTime": 0.005355013,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.006440936999999998,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007045006,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.0066305590000000055,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006972297999999995,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.008293849000000002,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.0061337019999999996,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006061793999999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.008802406999999995,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006984898999999998,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006669162999999998,
+      "memoryPeak": 229309
+    },
+    {
+      "executionTime": 0.005317808999999997,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007445652000000002,
+      "memoryPeak": 229383
+    },
+    {
+      "executionTime": 0.005985984999999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006262517000000002,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006158104999999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005901975,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006219712000000001,
+      "memoryPeak": 229383
+    },
+    {
+      "executionTime": 0.0056408449999999985,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005674050000000001,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.0054785269999999995,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.00602469,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006760274000000003,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006018889000000001,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.005833768,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005548034999999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007006101999999998,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.0071952240000000035,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007271033000000003,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006002286999999996,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006567152,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.005705053,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.0052233969999999985,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.006894789000000003,
+      "memoryPeak": 229309
+    },
+    {
+      "executionTime": 0.006764673999999999,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.005642345999999996,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006545249000000006,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.0054829280000000015,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.006196508999999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006166706000000005,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.006078395,
+      "memoryPeak": 229627
+    },
+    {
+      "executionTime": 0.005755859000000001,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.006751573,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005688651,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005713953999999994,
+      "memoryPeak": 229381
+    },
+    {
+      "executionTime": 0.005921576999999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005449924000000003,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005853670000000001,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.006485742000000002,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006451237999999996,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.0052961069999999996,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006224813000000004,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006567452000000003,
+      "memoryPeak": 229627
+    },
+    {
+      "executionTime": 0.005487127999999998,
+      "memoryPeak": 229309
+    },
+    {
+      "executionTime": 0.005826466999999994,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.005296605999999997,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.005635345000000001,
+      "memoryPeak": 229101
+    },
+    {
+      "executionTime": 0.005950080999999998,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006831482000000002,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005486027999999998,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.006275818000000001,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007297934999999995,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005902675000000002,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005732756000000002,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004801348999999995,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005030076000000001,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.0060082880000000005,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.0070351050000000016,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.00532891,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006705568000000006,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.007082111000000005,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.005379415999999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006084096000000002,
+      "memoryPeak": 229627
+    },
+    {
+      "executionTime": 0.008655390000000004,
+      "memoryPeak": 228733
+    }
+  ],
+  "bun_plus": [
+    {
+      "executionTime": 0.004280089999999994,
+      "memoryPeak": 229101
+    },
+    {
+      "executionTime": 0.0046870359999999995,
+      "memoryPeak": 229381
+    },
+    {
+      "executionTime": 0.004425090000000005,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.004466293999999997,
+      "memoryPeak": 233227
+    },
+    {
+      "executionTime": 0.00461571,
+      "memoryPeak": 229625
+    },
+    {
+      "executionTime": 0.005490008000000003,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.004852035999999998,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005741334999999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.003998841999999996,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004975249999999995,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.004845335999999996,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004647114000000002,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004383784999999996,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.004274072000000004,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004923445000000001,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004691718999999999,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.004856137000000004,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004128855999999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004234367999999996,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.0063172989999999984,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004853237,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004608508999999998,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.004320577,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.0042890739999999995,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.0053196879999999995,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004867639000000004,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.005287683999999999,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.005615321000000001,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004939847000000001,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.0051115649999999985,
+      "memoryPeak": 229625
+    },
+    {
+      "executionTime": 0.005401598,
+      "memoryPeak": 229381
+    },
+    {
+      "executionTime": 0.0055950190000000006,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006820055000000004,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006048769,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.0053371899999999995,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006848557999999997,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004909543,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004847236000000002,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.005832844999999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005663026000000002,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.004969349999999998,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.0054255010000000044,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005894751999999997,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.005507409000000003,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.006808553000000004,
+      "memoryPeak": 229101
+    },
+    {
+      "executionTime": 0.005386396000000005,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005813443,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004870137999999997,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.006388106,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005336590000000001,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004564804000000002,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004380083999999997,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005324488000000002,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005468004999999998,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.004695019000000002,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.0049284450000000035,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.00461421,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004677918000000006,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004781929000000005,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004996453000000002,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004419387999999998,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004351981000000002,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004441490999999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005919454999999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005104365000000001,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005099463999999997,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004991351999999999,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.004481394999999999,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005263481999999996,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004924145000000003,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.004491897000000002,
+      "memoryPeak": 229309
+    },
+    {
+      "executionTime": 0.004914344,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004932046,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004293675,
+      "memoryPeak": 229309
+    },
+    {
+      "executionTime": 0.004733623000000001,
+      "memoryPeak": 229381
+    },
+    {
+      "executionTime": 0.006624131999999996,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.005576815999999994,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.004803932000000003,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.0041326569999999944,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.004209865000000001,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005309488000000002,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004771728000000003,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005374094999999997,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.0048922409999999986,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.004476796,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004434390000000001,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004762726999999998,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004988051999999996,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.005212276000000003,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.004931945999999996,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.004511409,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004641825000000004,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.004515911000000003,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.004845348000000001,
+      "memoryPeak": 228877
+    },
+    {
+      "executionTime": 0.0046628270000000005,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004772939999999998,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.0050939759999999975,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.005023468000000001,
+      "memoryPeak": 228733
+    },
+    {
+      "executionTime": 0.004781040000000005,
+      "memoryPeak": 229625
+    },
+    {
+      "executionTime": 0.004780441000000003,
+      "memoryPeak": 228877
+    }
+  ]
+}

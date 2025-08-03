@@ -1,0 +1,222 @@
+{
+    "createFromFormat": [
+        {
+            "executionTime": 0.19692683219909668,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.17968988418579102,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.19170188903808594,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.22237610816955566,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.19661903381347656,
+            "memoryPeak": 2097152
+        }
+    ],
+    "date": [
+        {
+            "executionTime": 0.0835261344909668,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.07279086112976074,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.0643758773803711,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.06653404235839844,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.0667729377746582,
+            "memoryPeak": 2097152
+        }
+    ],
+    "dateFormat": [
+        {
+            "executionTime": 0.19593405723571777,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.153594970703125,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.1682112216949463,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.14409708976745605,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.1928248405456543,
+            "memoryPeak": 2097152
+        }
+    ],
+    "getDate": [
+        {
+            "executionTime": 0.12177205085754395,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.12946009635925293,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.1361229419708252,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.11706709861755371,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.13180804252624512,
+            "memoryPeak": 2097152
+        }
+    ],
+    "scratch": [
+        {
+            "executionTime": 0.2977309226989746,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.30631208419799805,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.3024139404296875,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.3177649974822998,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.2974581718444824,
+            "memoryPeak": 2097152
+        }
+    ],
+    "jit_createFromFormat": [
+        {
+            "executionTime": 0.21196889877319336,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.17573094367980957,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.2045879364013672,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.18534111976623535,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.19234490394592285,
+            "memoryPeak": 2097152
+        }
+    ],
+    "jit_date": [
+        {
+            "executionTime": 0.0779721736907959,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.0652320384979248,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.08017587661743164,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.06273889541625977,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.06270098686218262,
+            "memoryPeak": 2097152
+        }
+    ],
+    "jit_dateFormat": [
+        {
+            "executionTime": 0.1698160171508789,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.15043997764587402,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.1579909324645996,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.14257097244262695,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.1490919589996338,
+            "memoryPeak": 2097152
+        }
+    ],
+    "jit_getDate": [
+        {
+            "executionTime": 0.10752201080322266,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.10787701606750488,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.10828304290771484,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.13572406768798828,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.11093807220458984,
+            "memoryPeak": 2097152
+        }
+    ],
+    "jit_scratch": [
+        {
+            "executionTime": 0.18838787078857422,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.21980881690979004,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.20329880714416504,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.23272299766540527,
+            "memoryPeak": 2097152
+        },
+        {
+            "executionTime": 0.19442391395568848,
+            "memoryPeak": 2097152
+        }
+    ]
+}
