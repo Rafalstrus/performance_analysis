@@ -14,8 +14,8 @@ Benchmarker.executeScript((i) => {
     let hour = Math.floor(rem / MILLISECONDS_IN_HOUR);
     rem %= MILLISECONDS_IN_HOUR;
     let minute = Math.floor(rem / MILLISECONDS_IN_MINUTE);
-    let second_ms_rem = rem % MILLISECONDS_IN_MINUTE; // Remaining milliseconds for seconds
-    let second = Math.floor(second_ms_rem / MILLISECONDS_IN_SECOND); // Convert to full seconds
+    let second_ms_rem = rem % MILLISECONDS_IN_MINUTE;
+    let second = Math.floor(second_ms_rem / MILLISECONDS_IN_SECOND);
 
     let year = 1970;
     const daysInMonth = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
